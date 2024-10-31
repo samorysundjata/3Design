@@ -1,0 +1,8 @@
+# Ignore HTML files
+*.html
+
+# Ignore Bootstrap files
+bootstrap/
+
+# Ignore CSS files
+*.css
